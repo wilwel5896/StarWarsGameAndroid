@@ -1,3 +1,5 @@
+--Created by Will Wellington 3/3/2014
+
 display.setStatusBar(display.HiddenStatusBar)
 
 local centerX = display.contentCenterX
