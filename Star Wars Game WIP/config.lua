@@ -1,7 +1,5 @@
--- config.lua for project: Attack of the Cuteness Game
--- For http://MasteringCoronaSDK.com
--- Copyright 2013 J. A. Whye. All Rights Reserved.
--- cpmgen config.lua
+--Created by Will Wellington 3/3/2014
+
 application =
 {
 	content =
